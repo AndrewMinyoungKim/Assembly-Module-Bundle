@@ -7,7 +7,7 @@ This counter displays its value in binary on the LEDR9-0 lights and increments b
 If KEY0 is pressed, the counter toggles (run/pause), KEY1 and KEY2 double the speed and halve the speed, respectively.
 The stopwatch will appear on the HEX display looping after 59:99 back to 00:00, which you can pause at any time using KEY3 as a toggle
 
-# 6.1 Pushbutton Activator
+# Pushbutton Activator
 Displays a blank HEX display. When pushing any of the KEY3-0 buttons, the corresponding number of the KEY to the HEX will display the number pressed. For example, if KEY2 is pressed, the number 2 will display on HEX2
 
 # Stopwatch
